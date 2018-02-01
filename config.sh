@@ -1,0 +1,3 @@
+username=pandanoir
+repository_name=npmPackageTemplate
+branch=master
